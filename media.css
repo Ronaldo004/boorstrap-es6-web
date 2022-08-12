@@ -1,0 +1,20 @@
+@media only screen and (max-width:800px){
+    .card1{
+        flex-direction: column;
+      
+        justify-content: center;
+        align-items: center;
+    }
+    .card{
+        width: 50rem;
+     
+        margin-top: 2rem;
+    }
+    .card2{
+        margin-top: 2rem;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        
+    }
+}
